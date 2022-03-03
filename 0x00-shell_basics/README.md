@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "Love ALx"
+#!/bin/bash "Love ALx"

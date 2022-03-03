@@ -1,2 +1,3 @@
 #!/bin/bash 
-#!/bin/bash "Love ALx"
+echo "ALX is cool"
+
